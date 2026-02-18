@@ -69,7 +69,7 @@ numpy>=1.20.0
 ### 1. Clone ou Baixe o Projeto
 
 ```bash
-git clone https://github.com/seu-usuario/basileia-ai.git
+git clone https://github.com/seu-usuario/XAIBASILEIA_v1.git
 cd basileia-ai
 ```
 
